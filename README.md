@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi 👋, I'm Sherlyn de la hoya</h1>
+    <h1>Hello world👋, I'm Sherlyn de la hoya</h1>
     <h3>Software Engineer and 3D animator 💻</h3>
     <img src="https://s3.amazonaws.com/cgcookie-rails/uploads%2F1598382624174-fyF4Ic8cMl.gif">
 </div>
