@@ -14,7 +14,7 @@ If you want to contact me, you can send me a message by email or discord
   </a>
 </p>
 
-- 🔭 I’m currently working on [Blocksidian]([https://www.blocksidian.com/](https://blocksidianfrontend.onrender.com/))
+- 🔭 I’m currently working on [Blocksidian]([[https://www.blocksidian.com/](https://blocksidianfrontend.onrender.com/)])
 
 - 🔎 I am looking to **collaborate within the software development environment**
 
