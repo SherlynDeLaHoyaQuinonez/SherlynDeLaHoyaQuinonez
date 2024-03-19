@@ -20,7 +20,7 @@ If you want to contact me, you can send me a message by email or discord
 
 - 🌱 I’m currently learning **Backend, Frameworks, courses.**
 
-- 📫 Another email to contact me **sherlyn.delahoya.is@unipolidgo.edu.mx**
+- 📫 Another email to contact me **sherlynquinonez92@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
